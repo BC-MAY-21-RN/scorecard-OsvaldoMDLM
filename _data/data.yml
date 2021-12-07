@@ -103,14 +103,8 @@ experiences:
     time: 2021 Sep - 2021 Dec 
     company: own project
     details: |
-      movie app. Mobile application developed in 
-          -flutter sdk.
-      This application allows you to see the:
-          -synapse 
-          -duration
-          -release date 
-          -director 
-          -casting 
+      movie app. Mobile application developed in flutter sdk.
+      This application allows you to see the synapse, duration,release date, director, casting 
       of a movie.
 
 
