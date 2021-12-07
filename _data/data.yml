@@ -70,7 +70,7 @@ educationcomplete:
     university: University of Colima
     time: 2018 Aug - 2022 Aug
     details: |
-
+      Faculty of Telematics
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Internship
@@ -104,13 +104,13 @@ experiences:
     company: own project
     details: |
       movie app. Mobile application developed in 
-       -flutter sdk.
+          -flutter sdk.
       This application allows you to see the:
-       -synapse 
-       -duration
-       -release date 
-       -director 
-       -casting 
+          -synapse 
+          -duration
+          -release date 
+          -director 
+          -casting 
       of a movie.
 
 
@@ -134,17 +134,23 @@ skills:
   toolset:
     - name: JavaScript
       level: 40%
+    
+    - name: React native
+      level: 40%
 
     - name: HTML
       level: 80%
 
     - name: CSS (SASS)
-      level: 60%
-
-    - name: Dart
-      level: 60%
+      level: 80%
 
     - name: PHP
+      level: 40%
+
+    - name: Dart
+      level: 80%
+
+     - name: React native
       level: 40%
 
     - name: git
