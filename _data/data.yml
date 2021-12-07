@@ -144,9 +144,9 @@ skills:
       level: 80%
 
     - name: React native
-      level: 30%
+      level: 40%
 
-    - name: git
+    - name: Git
       level: 60%
     
     - name: Figma
