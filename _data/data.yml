@@ -103,7 +103,7 @@ experiences:
     time: 2021 Sep - 2021 Dec 
     company: own project
     details: |
-      movie app. Mobile application developed in flutter sdk.
+      movie app. Mobile application developed on flutter sdk.
       This application allows you to see the synapse, duration,release date, director, casting 
       of a movie.
 
@@ -112,8 +112,7 @@ experiences:
     time: 2021 Sep - 2021 Dec 
     company: own project
     details: |
-      News app. Mobile application developed in 
-       -flutter sdk.
+      News app. Mobile application developed on flutter sdk.
       This application allows you to see the world News
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -144,7 +143,7 @@ skills:
     - name: Dart
       level: 80%
 
-     - name: React native
+    - name: React native
       level: 40%
 
     - name: git
