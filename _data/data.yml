@@ -126,9 +126,9 @@ skills:
 
   toolset:
     - name: JavaScript
-      level: 40%
+      level: 60%
     
-    - name: React native
+    - name: ReactJS
       level: 40%
 
     - name: HTML
