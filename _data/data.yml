@@ -143,6 +143,9 @@ skills:
     - name: Dart
       level: 80%
 
+    - name: Flutter
+      level: 80%
+
     - name: React native
       level: 20%
 
