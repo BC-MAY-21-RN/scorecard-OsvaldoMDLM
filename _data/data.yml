@@ -15,8 +15,8 @@ sidebar:
   email: osvaldo.benjamin31@gmail.com
   phone: 3129147043
   website: # No agregar http://
-  linkedin: linkedin.com/in/osvaldo-medina-30a59518b
-  github: https://github.com/OsvaldoMDLM
+  linkedin: osvaldo-medina-30a59518b
+  github: OsvaldoMDLM
   gitlab:
   bitbucket:
   twitter: '@Osvaldo_MDLM'
@@ -34,7 +34,19 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+    - item: Autodidact
+      link: # dejar en blanco
+
+    - item: Creative
+      link: # dejar en blanco
+
     - item: Communication
+      link: # dejar en blanco
+
+    - item: Leadership
+      link: # dejar en blanco
+
+    - item: Flexible
       link: # dejar en blanco
 
     - item: Team Work
@@ -47,67 +59,68 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a dedicated person who likes to solve problems,I like music,
+    walks while I listen to music and watch movies.
+    I am currently studying at the University of Colima.
+    I love doing web and mobile development, using new technologies.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Telematic Engineering
+    university: University of Colima
+    time: 2018 Aug - 2022 Aug
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Internship
+    time: 2021 Mar - 2021 Oct
+    company: University of Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Design and analysis of solutions for Software
+      maintenance.
+      Interface development with PHP, CSS, JSON and
+      jQuery.
+      Developing the educ mobile app using flutter.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: developer
+    time: 2021 Sep - 2021 Dec 
+    company: thesis project
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      A real-time chat for the educ platform 
+      with which they can communicate with teachers and students.
+      My role was as a designer, and developer of the mobile application,
+      as well as co-developer of the web application
+
+  - role: developer
+    time: 2021 Aug - 2021 Jun 
+    company: own project
+    details: |
+      Real estate.
+      Own project developed with html, css, javascript, php and MySQL.
+
+  - role: developer
+    time: 2021 Sep - 2021 Dec 
+    company: own project
+    details: |
+      movie app. Mobile application developed in 
+       -flutter sdk.
+      This application allows you to see the:
+       -synapse 
+       -duration
+       -release date 
+       -director 
+       -casting 
+      of a movie.
+
+
+  - role: developer
+    time: 2021 Sep - 2021 Dec 
+    company: own project
+    details: |
+      News app. Mobile application developed in 
+       -flutter sdk.
+      This application allows you to see the world News
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -119,23 +132,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
+    - name: JavaScript
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS (SASS)
+      level: 60%
 
-    - name: C/C++
+    - name: Dart
+      level: 60%
+
+    - name: PHP
       level: 40%
+
+    - name: git
+      level: 60%
+    
+    - name: Figma
+      level: 80%
 
 # NO MODIFICAR
 footer: >
